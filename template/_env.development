@@ -1,0 +1,4 @@
+# 接口地址
+VUE_APP_APIURL = http://www.baidu.com
+# 项目端口
+VUE_APP_PORT = 8080
